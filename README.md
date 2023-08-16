@@ -1,6 +1,6 @@
 ## 1.Project Description
 
-This is a webpage to showcase my portfolio of web applications that I have developed myself over the years. It should only be used to get an overview of who I am, my background and my projects
+This is an workflow process flow automation by means of a bot
 
 ## 2.Project Author 
 Daniel Rotich
