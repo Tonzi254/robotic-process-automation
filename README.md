@@ -10,10 +10,11 @@ https://github.com/Tonzi254/robotic-process-automation.git
 
 
 ## 4.Technologies Used
-UiPath Studio
-Zoho Desk APP
+# UiPath Studio
+# UiPath Orchestrator
+# Zoho Desk APP
 
-## 5.Contact
+## 5.Contact Information
 For any support or incase you need to contact me please send an e-mail to dante_dot_skilz_at_gmail_dot_com and I will try to respond as soon as possible
 
 ## 6.License Information
